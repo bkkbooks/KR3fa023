@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa023/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 方星圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa023.xml
+hash: sha256:df276a3d13ac8761ba9061d6dfef68b80a08ddf85cf92bf99a6c43ad69c1a6d1
